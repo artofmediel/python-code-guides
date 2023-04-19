@@ -11,6 +11,7 @@
 #   update:                     pip install --upgrade pip
 #   installed packages:         pip list
 #   check outdated packages:    pip list --outdated
+#   upgrade a package:          pip install "package name" --upgrade
 #   install a package:          pip install "package name"
 # -----------------------------------------------------
 
